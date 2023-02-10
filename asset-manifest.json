@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landingPage/static/css/main.0a4cfaea.css",
+    "main.js": "/landingPage/static/js/main.8453c34f.js",
+    "static/media/headerBackground.jpg": "/landingPage/static/media/headerBackground.eb868228221f0c77e092.jpg",
+    "static/media/flowerSecond.png": "/landingPage/static/media/flowerSecond.99119f5f497e940e1bd6.png",
+    "static/media/flowerThird.png": "/landingPage/static/media/flowerThird.ed5f37006c09e0fdc95e.png",
+    "static/media/flowerFirst.png": "/landingPage/static/media/flowerFirst.d4838c683d3fe4661a8f.png",
+    "static/media/roomFirst.jpg": "/landingPage/static/media/roomFirst.ec1e4e91feabdf0a9b1c.jpg",
+    "static/media/flower.png": "/landingPage/static/media/flower.ba72dedad1db363e16fb.png",
+    "static/media/sun.png": "/landingPage/static/media/sun.0556edaf68054036d7e9.png",
+    "static/media/drop.png": "/landingPage/static/media/drop.86fe1f650620f3ad39c9.png",
+    "static/media/headset.png": "/landingPage/static/media/headset.bf1cd911368249fa9610.png",
+    "static/media/wallet.png": "/landingPage/static/media/wallet.53c2cf172f66fd2aa22f.png",
+    "index.html": "/landingPage/index.html",
+    "main.0a4cfaea.css.map": "/landingPage/static/css/main.0a4cfaea.css.map",
+    "main.8453c34f.js.map": "/landingPage/static/js/main.8453c34f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4cfaea.css",
+    "static/js/main.8453c34f.js"
+  ]
+}
